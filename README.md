@@ -10,7 +10,7 @@
   This presence uses the Stisla Bootstrap Admin Template and will help you make a presence.
 </p>
 
-[![Stisla Preview](https://camo.githubusercontent.com/2135e0f6544a7286a3412cdc3df32d47fc91b045/68747470733a2f2f692e6962622e636f2f3674646d6358302f323031382d31312d31312d31352d33352d676574737469736c612d636f6d2e706e67)](https://getstisla.com)
+[![Presence Preview](https://i.ibb.co/tPxzNmd/Presence.png)](https://presensi.ipdn.ac.id)
 
 ## Installation
 - Clone the repo :
